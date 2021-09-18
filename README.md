@@ -8,4 +8,10 @@ We'll make sure the script
 4. Ensure that each user has a .ssh folder within its HOME folder. If it does not exist, then create it.
 
 
-The script in action https://www.youtube.com/watch?v=C48osDrHTxw Terminal on the right used to connect to remote server and run script. Terminal on the left used to send the script and .txt with names to remote server and later connect as a different user to test newly created users.
+The script in action [video](https://www.youtube.com/watch?v=C48osDrHTxw) Terminal on the right used to connect to remote server and run script. Terminal on the left used to send the script and .txt with names to remote server and later connect as a different user to test newly created users.
+
+Technologies/Tools used:
+* AWS (EC2)
+* Ubuntu Server 20.04 LTS
+* Bash
+* GitBash
